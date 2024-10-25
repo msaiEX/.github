@@ -1,14 +1,19 @@
 ### <img src="https://github.com/user-attachments/assets/70ef9d52-2bf0-492e-bd62-8fa55825cc88" width="18px"/> 한국마이크로소프트 AI Express 해커톤 <a href="http://msaiex.site/Main" target="_blank">MsaiEx</a>
-### <a href="https://azure.microsoft.com/ko-kr/pricing/purchase-options/azure-account" target="_blank">Azure</a> st025@aiexpress.msai.kr
-### 환율 예측: 10/28일부터 앞으로 한달간 외환이 어떻게 될지 예측해줘
-### 외국 뉴스
-```
-"title" : As dollar eyes its biggest October gain in over a decade, BofA says time to fade     "content" :  The dollar is enjoying a three-week win streak and is on track for its biggest October gains in over a decade, but analysts at BofA believe the bullish run is set to run out of steam and have begun to fade the rally.        “We think the USD rally is running out of steam and have started to fade it,” BofA analysts said in a note on Monday     The, which measures the greenback against a trade-weighted basket of six major currencies, has climbed about 2.5% in October, putting it on track for its best monthly performance since September 2022, while its month-to-date, the greenabck rally is on track to highest October DXY return in over a decade, BofA added.     The dollar has been riding on several bullish factors: Higher U.S. yields; safe-haven flows amid geopolitical tensions; and a relatively resilient U.S. economy.     But these drivers are expected to run out of road sooner rather than later, curbing the run in the greenback.          “The USD has benefited from higher US yields, safe haven flows, and relative US economic outperformance. However, we think these drivers are losing steam,” the analysts added.     Under the current macro backdrop, however, not all dollar-related pairs are set for doldrums, BofA suggests, stressing that “picking the right USD pair to fade is important as there are still some remaining bullish USD signals in place.”     “For this week, we like to hold a bearish   view given our out-of-consensus call for a 25bp BoC rate cut decision,” the analysts added, estimating that short-term USDCAD fair value to be on a 1.36-handle with the USDCAD bulls likely to “get squeezed in the scenario of a 25bp rate cut.”          The euro is likely to be one of the big beneficiaries from dollar weakness as well as improving Eurozone economy and relatively hawkish stance from the ECB. The analysts forecast the single currency to strengthen against the dollar to $1.15 by the end of 2025.
-```
-
 # MsaiEX (Easy foreign Exchange)
 **정보제공부터 외환투자까지 하나에 누구나 쉽게 시작할 수 있는 외환거래 서비스**
 
+### 수행 기간
+
+- **2024.10.01 – 2024.10.28**
+
+### 담당 업무
+
+- **기획, 화면 설계, 서비스 개발**
+
+### 참가 인원
+| [성창민](https://github.com/indaegu) | [양진안](https://github.com/moho852) | [김현석](https://github.com/mrbonk97) | [장규은](https://github.com/gyueunnim) |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/c6c5279d-e34e-4329-8b30-f5e0e30ef6db" width="150"/> | <img src="https://github.com/user-attachments/assets/a6263def-880f-4699-9b8e-9bac79c0eec7" width="150"/> | <img src="https://github.com/user-attachments/assets/78aae1c8-b5cb-4352-a3c9-946395ef7fc2" width="150"/> | <img src="https://github.com/user-attachments/assets/00b2c12e-0a46-46e6-92ae-37b5f2c2cf4d" width="150"/> |
 
 ## 프로젝트 개요
 
@@ -55,19 +60,6 @@
 - **현지 뉴스와 한국 뉴스 요약**, 각 뉴스에 대한 **분석 포인트 및 호재/악재 정보** 전달
 
 ## 프로젝트 상세
-
-### 수행 기간
-
-- **2024.10.01 – 2024.10.28**
-
-### 참가 인원
-
-- **4명**
-
-### 담당 업무
-
-- **기획, 화면 설계, 서비스 개발**
-
 ## 사용 기술
 
 ![MS_PPT_시스템아키텍처 1](https://github.com/user-attachments/assets/454c71bc-56f3-486d-8ed3-8b9470c2ccb3)
