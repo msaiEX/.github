@@ -1,4 +1,4 @@
-### <img src="https://github.com/user-attachments/assets/70ef9d52-2bf0-492e-bd62-8fa55825cc88" width="18px"/> 한국마이크로소프트 AI Express 해커톤 <a href="http://msaiex.site/Main" target="_blank">MsaiEx</a>
+### <img src="https://github.com/user-attachments/assets/70ef9d52-2bf0-492e-bd62-8fa55825cc88" width="18px"/> 한국마이크로소프트 AI Express 해커톤 대상 🏆 <a href="http://msaiex.site/Main" target="_blank">MsaiEx</a>
 # MsaiEX (Easy foreign Exchange)
 **정보제공부터 외환투자까지 하나에 누구나 쉽게 시작할 수 있는 외환거래 서비스**
 
